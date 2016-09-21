@@ -7,8 +7,10 @@
 <img id="drag1" src="https://upload.wikimedia.org/wikipedia/commons/0/07/Giraffe08_-_melbourne_zoo.jpg" draggable="true" ondragstart="drag(event)" width="336" height="200">
 
 </body>
+<style>
 #div1 {width:350px;height:200px;padding:10px;border:1px solid #aaaaaa;}
-
+</style>
+<script>
 function allowDrop(ev) {
     ev.preventDefault();
 }
@@ -22,3 +24,4 @@ function drop(ev) {
     var data = ev.dataTransfer.getData("text");
     ev.target.appendChild(document.getElementById(data));
 }
+</script>
