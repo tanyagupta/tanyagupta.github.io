@@ -2,7 +2,7 @@
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
 
-This Application collects some Personal Data from its Users.<p>
+This Application collects some Personal Data from its Users.
 ##### Personal Data collected for the following purposes and using the following services:
 ###### Analytics
 
