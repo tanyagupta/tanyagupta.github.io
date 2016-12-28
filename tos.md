@@ -14,7 +14,7 @@ Google Analytics
 #### Contact information
 Data owner
 - Li60 and Data Unscience (including Word Cloud Generator Add-On and Web App)
-- privacy@li60.zendesk.com
+- privacy@li60.zendesk.com (mailto:privacy@li60.zendesk.com)
 
 
 ##### What we collect
