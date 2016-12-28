@@ -37,6 +37,7 @@ We require this information to understand your needs and provide you with a bett
 ###### Links to other websites
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
 ###### Controlling your personal information
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
@@ -50,8 +51,6 @@ In no event will we be liable for any loss or damage including without limitatio
 Through this website you are able to link to other websites which are not under the control of Li60 and Data Unscience. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
 
 Every effort is made to keep the website up and running smoothly. However, we take no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
-
-
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
