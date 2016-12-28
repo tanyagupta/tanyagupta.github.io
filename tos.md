@@ -4,20 +4,20 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 This Application collects some Personal Data from its Users.
 
-##### Personal Data collected for the following purposes and using the following services:
+#### Personal Data collected for the following purposes and using the following services:
 
-###### Analytics
+##### Analytics
 
 Google Analytics
 - Personal Data: Cookies and Usage data
 
 #### Contact information
 Data owner
-- Li60 and Data Unscience (including Word Cloud Generator Add-On and Web App),
+- Li60 and Data Unscience (including Word Cloud Generator Add-On and Web App)
 - privacy@li60.zendesk.com
 
 
-###### What we collect
+##### What we collect
 
 We collect the following to help us fine tune our algorithm:
 
@@ -28,10 +28,10 @@ We collect the following to help us fine tune our algorithm:
 - Google Analytics data (without any identifying information)
 
 ###### What we do with the information we gather
+
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
 - Internal record keeping.
-
 - We may use the information to improve our products and services.
 
 ###### Links to other websites
