@@ -3,7 +3,9 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 This Application collects some Personal Data from its Users.
+
 ##### Personal Data collected for the following purposes and using the following services:
+
 ###### Analytics
 
 Google Analytics
