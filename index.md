@@ -1,3 +1,4 @@
 #h1 Projects
 
-[Simple Calculator][http://codepen.io/tanyagupta/full/MeJwYO/]
+[Simple Calculator](http://codepen.io/tanyagupta/full/MeJwYO/)
+[Tic Tac Toe](http://codepen.io/tanyagupta/full/EPZZYy/)
