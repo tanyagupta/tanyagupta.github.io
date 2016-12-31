@@ -9,3 +9,5 @@
 [Tic Tac Toe](http://codepen.io/tanyagupta/full/EPZZYy/)
 
 [Pomodoro Clock](http://codepen.io/tanyagupta/pen/xwMOEw)
+
+[Calculator](http://codepen.io/tanyagupta/full/MeJwYO/)
