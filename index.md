@@ -1,4 +1,4 @@
-#h1 Projects
+# Projects
 
 [Simple Calculator](http://codepen.io/tanyagupta/full/MeJwYO/)
 
