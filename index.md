@@ -13,3 +13,6 @@
 [Calculator](http://codepen.io/tanyagupta/full/MeJwYO/)
 
 [Weather](http://codepen.io/tanyagupta/full/mVroab/)
+
+<img src='https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/foo.png' width="50" height="100" />
+
