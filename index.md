@@ -1,6 +1,6 @@
 # Products
-<div class="container"> 
-* <div class="row">
+
+* <div class="container"><div class="row">
 <div class="col-xs-4"> <a href="https://chrome.google.com/webstore/detail/table-calculator/fknnekoeejdjcbdokeinngldblilkedp?hl=en" target="_blank">GTable Calculator Add-On for Docs (Chrome Store)&nbsp;</a><a target="_blank" href="mailto:tcalc@li60.zendesk.com?Subject=Table%20Calculator" target="_top"><img height="18" width="18" src="https://cdn4.iconfinder.com/data/icons/miu/24/common-email-envelope-mail-glyph-128.png"> <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a>
 </div>
 </div>
