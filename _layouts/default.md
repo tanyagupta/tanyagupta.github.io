@@ -40,9 +40,9 @@
   <div class="col-sm-6">
    
     
-# Products
-
-* <a href="https://chrome.google.com/webstore/detail/table-calculator/fknnekoeejdjcbdokeinngldblilkedp?hl=en" target="_blank">GTable Calculator Add-On for Docs (Chrome Store)&nbsp;</a><a target="_blank" href="mailto:tcalc@li60.zendesk.com?Subject=Table%20Calculator" target="_top"><img height="18" width="18" src="https://cdn4.iconfinder.com/data/icons/miu/24/common-email-envelope-mail-glyph-128.png"> <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a>
+    <h1> Products</h1>
+<ul>
+<li> <a href="https://chrome.google.com/webstore/detail/table-calculator/fknnekoeejdjcbdokeinngldblilkedp?hl=en" target="_blank">GTable Calculator Add-On for Docs (Chrome Store)&nbsp;</a><a target="_blank" href="mailto:tcalc@li60.zendesk.com?Subject=Table%20Calculator" target="_top"><img height="18" width="18" src="https://cdn4.iconfinder.com/data/icons/miu/24/common-email-envelope-mail-glyph-128.png"> <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
 
 
 * <a href="https://chrome.google.com/webstore/detail/gsheets-calc/ojfmgmplohpjbjnmddbncmeogpfjnfma?utm_source=permalink" target="_blank">GSheets Calc Add-On for Sheets&nbsp;</a><a target="_blank" href="mailto:gsheetscalc@li60.zendesk.com?Subject=GSheets%20Calc" target="_top"><img height="18" width="18" src="https://cdn4.iconfinder.com/data/icons/miu/24/common-email-envelope-mail-glyph-128.png"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a>
