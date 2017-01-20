@@ -1,7 +1,7 @@
 # Welcome to Learn in 60 seconds
- <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+ 
 <div class="row">
-<div class="col-xs-4"> <h2><a href="https://chrome.google.com/webstore/detail/table-calculator/fknnekoeejdjcbdokeinngldblilkedp?hl=en" target="_blank">GTable Calculator Add-On for Docs (Chrome Store)&nbsp;</a><a target="_blank" href="mailto:tcalc@li60.zendesk.com?Subject=Table%20Calculator" target="_top"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></h2></div>
+<div class="col-xs-4"> <h2><a href="https://chrome.google.com/webstore/detail/table-calculator/fknnekoeejdjcbdokeinngldblilkedp?hl=en" target="_blank">GTable Calculator Add-On for Docs (Chrome Store)&nbsp;</a><a target="_blank" href="mailto:tcalc@li60.zendesk.com?Subject=Table%20Calculator" target="_top"><img height="42" width="42" href="https://cdn4.iconfinder.com/data/icons/miu/24/common-email-envelope-mail-glyph-128.png"> <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></h2></div>
 
 <i class="fa fa-envelope" aria-hidden="true"></i>
 <i class="fa fa-envelope" aria-hidden="true"></i>,,,
