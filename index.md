@@ -10,7 +10,7 @@
 </div>
           
 <div class="row">
-<div class="col-xs-12"> <h2><a href="https://chrome.google.com/webstore/detail/word-cloud-generator/alhnlhbhnklajhmccemipdbaifocepab?authuser=0" target="_blank">Word Cloud Add-On (Chrome Web Store) </a><a target="_blank" href="mailto:wordcloudaddon@li60.zendesk.com?Subject=Word%20Cloud%20Add-On" onclick="ga('send', 'event', 'link', 'click', 'Word Cloud Add On Li60 webpage');" target="_top"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></h2>
+<div class="col-xs-12"> <h2><a href="https://chrome.google.com/webstore/detail/word-cloud-generator/alhnlhbhnklajhmccemipdbaifocepab?authuser=0" target="_blank">Word Cloud Add-On (Chrome Web Store) </a><a target="_blank" href="mailto:wordcloudaddon@li60.zendesk.com?Subject=Word%20Cloud%20Add-On" onclick="ga('send', 'event', 'link', 'click', 'Word Cloud Add On Li60 webpage');" target="_top"><img height="22" width="22" src="https://cdn4.iconfinder.com/data/icons/miu/24/common-email-envelope-mail-glyph-128.png"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></h2>
 </div>
 </div>
 
