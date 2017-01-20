@@ -1,4 +1,9 @@
-<link rel="shortcut icon" type="image/x-icon" href="https://openclipart.org/image/800px/svg_to_png/24771/Anonymous-Mouse-icon.png">
+<head>
+<link rel=”icon” href=”http://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2014-11-25/dff79f0d5abb6f6a61957c6343ec3a03.ico” type=”image/png”>
+
+
+
+</head>
 # Products
 
 * <a href="https://chrome.google.com/webstore/detail/table-calculator/fknnekoeejdjcbdokeinngldblilkedp?hl=en" target="_blank">GTable Calculator Add-On for Docs (Chrome Store)&nbsp;</a><a target="_blank" href="mailto:tcalc@li60.zendesk.com?Subject=Table%20Calculator" target="_top"><img height="18" width="18" src="https://cdn4.iconfinder.com/data/icons/miu/24/common-email-envelope-mail-glyph-128.png"> <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a>
