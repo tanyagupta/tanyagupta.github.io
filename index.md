@@ -18,5 +18,5 @@ Click on the <img height="18" width="18" src="https://cdn4.iconfinder.com/data/i
   
 
 
-<small><a target="_blank" href="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/portfolio.md">My Portfolio</a></small>
+<small><a target="_blank" href="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/portfolio.md">Tanya's Portfolio</a></small>
 
