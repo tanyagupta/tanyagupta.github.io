@@ -35,19 +35,4 @@ Click on the <img height="18" width="18" src="https://cdn4.iconfinder.com/data/i
   <li><a href="https://pinboard.in/popup_login/?url=http%3A%2F%2Flearnin60seconds.com&title=Learn.%20Tech.%20Fast.&description=" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'PB share Li60 webpage');" title="Save to Pinboard"><img src="http://abir.x10.mx/images/add-ons/social/Pinboard.png"></a></li>
   <li><a href="mailto:?subject=Learn.%20Tech.%20Fast.&body=:%20http%3A%2F%2Flearnin60seconds.com" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'Email share Li60 webpage');" title="Email"><img src="http://abir.x10.mx/images/add-ons/social/Email.png"></a></li>
 
- <style>
- ul.share-buttons{
-  list-style: none;
-  text-align:center;
-  padding: 0;
-}
-
-ul.share-buttons li{
-  display: inline;
-  
-}
-
- </style>
-
-</ul>
 
