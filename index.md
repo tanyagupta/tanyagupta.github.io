@@ -14,7 +14,7 @@
 </div>
 
 <div class="row">
-<div class="col-xs-12"> <h2><a href="http://bit.ly/li60tagcloud" onclick="ga('send', 'event', 'link', 'click', 'Tag Cloud Web App');"target="_blank">Word Cloud Web App &nbsp;</a><a target="_blank" href="mailto:wordcloudwebapp@li60.zendesk.com?Subject=Word%20Cloud%20Web%20App" target="_top"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></h2>
+<div class="col-xs-12"> <h2><a href="http://bit.ly/li60tagcloud" target="_blank">Word Cloud Web App &nbsp;</a><a target="_blank" href="mailto:wordcloudwebapp@li60.zendesk.com?Subject=Word%20Cloud%20Web%20App" target="_top"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></h2>
 </div>
 </div> 
            
