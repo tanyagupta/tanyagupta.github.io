@@ -18,7 +18,7 @@ Click on the <img height="18" width="18" src="https://cdn4.iconfinder.com/data/i
   
 
 
-<ul class="share-buttons">
+<ul class="share-buttons" style="list-style: none">
   <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flearnin60seconds.com&t=Learn.%20Tech.%20Fast." title="Share on Facebook" onclick="ga('send', 'event', 'link', 'click', 'FB share Li60 webpage');" target="_blank"><img src="http://abir.x10.mx/images/add-ons/social/Facebook.png"></a></li>
   <li><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Flearnin60seconds.com&text=Learn.%20Tech.%20Fast.:%20http%3A%2F%2Flearnin60seconds.com&via=learnin60" onclick="ga('send', 'event', 'link', 'click', 'Twitter share Li60 webpage');" target="_blank" title="Tweet"><img src="http://abir.x10.mx/images/add-ons/social/Twitter.png"></a></li>
   <li><a href="https://plus.google.com/share?url=http%3A%2F%2Flearnin60seconds.com" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'G+ share Li60 webpage');" title="Share on Google+"><img src="http://abir.x10.mx/images/add-ons/social/Google+.png"></a></li>
