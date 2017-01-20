@@ -1,5 +1,5 @@
 # Welcome to Learn in 60 seconds
-https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 <div class="row">
 <div class="col-xs-4"> <h2><a href="https://chrome.google.com/webstore/detail/table-calculator/fknnekoeejdjcbdokeinngldblilkedp?hl=en" target="_blank">GTable Calculator Add-On for Docs (Chrome Store)&nbsp;</a><a target="_blank" href="mailto:tcalc@li60.zendesk.com?Subject=Table%20Calculator" target="_top"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></h2></div>
 
