@@ -31,11 +31,23 @@ Click on the <img height="18" width="18" src="https://cdn4.iconfinder.com/data/i
  
   <li><a href="http://www.reddit.com/submit?url=http%3A%2F%2Flearnin60seconds.com&title=Learn.%20Tech.%20Fast." onclick="ga('send', 'event', 'link', 'click', 'Reddit share Li60 webpage');" target="_blank" title="Submit to Reddit"><img src="http://abir.x10.mx/images/add-ons/social/Reddit.png"></a></li>
   <li><a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flearnin60seconds.com&title=Learn.%20Tech.%20Fast.&summary=&source=http%3A%2F%2Flearnin60seconds.com" onclick="ga('send', 'event', 'link', 'click', 'LinkedIn share Li60 webpage');" target="_blank" title="Share on LinkedIn"><img src="http://abir.x10.mx/images/add-ons/social/LinkedIn.png"></a></li>
-  <li><a href="http://wordpress.com/press-this.php?u=http%3A%2F%2Flearnin60seconds.com&t=Learn.%20Tech.%20Fast.&s=" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'WP share Li60 webpage');"title="Publish on WordPress"><img src="http://abir.x10.mx/images/add-ons/social/Wordpress.png"></a></li>
+  <li><a href="http://wordpress.com/press-this.php?u=http%3A%2F%2Flearnin60seconds.com&t=Learn.%20Tech.%20Fast.&s=" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'WP share Li60 webpage');" title="Publish on WordPress"><img src="http://abir.x10.mx/images/add-ons/social/Wordpress.png"></a></li>
   <li><a href="https://pinboard.in/popup_login/?url=http%3A%2F%2Flearnin60seconds.com&title=Learn.%20Tech.%20Fast.&description=" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'PB share Li60 webpage');" title="Save to Pinboard"><img src="http://abir.x10.mx/images/add-ons/social/Pinboard.png"></a></li>
   <li><a href="mailto:?subject=Learn.%20Tech.%20Fast.&body=:%20http%3A%2F%2Flearnin60seconds.com" target="_blank" onclick="ga('send', 'event', 'link', 'click', 'Email share Li60 webpage');" title="Email"><img src="http://abir.x10.mx/images/add-ons/social/Email.png"></a></li>
 
- 
+ <style>
+ ul.share-buttons{
+  list-style: none;
+  text-align:center;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+  
+}
+
+ </style>
 
 </ul>
 
