@@ -1,0 +1,15 @@
+
+.no-bullets {
+    list-style-type: none;
+}
+
+ul.share-buttons{
+  list-style: none;
+  text-align:center;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+  
+}
