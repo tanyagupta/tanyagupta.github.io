@@ -56,7 +56,7 @@
     
       </div>
       <div class="col-sm-6">
-        <img src="https://www.montereyboats.com/zv20161222180805/zupload/site-options/homeboat31.png">
+        <img src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/wordcloud.png?raw=true">
       </div>
     </div>
     </div>
