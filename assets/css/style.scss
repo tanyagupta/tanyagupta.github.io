@@ -4,3 +4,14 @@
 @import "http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css";
 @import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
 @import "icon-style"
+
+ul.share-buttons{
+  list-style: none;
+  text-align:center;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+  
+}
