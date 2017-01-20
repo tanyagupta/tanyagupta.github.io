@@ -42,7 +42,7 @@
     
     <h1> Products</h1>
 <ul>
-<li> <a href="https://chrome.google.com/webstore/detail/table-calculator/fknnekoeejdjcbdokeinngldblilkedp?hl=en" target="_blank">GTable Calculator Add-On for Docs (Chrome Store)&nbsp;</a><a target="_blank" href="mailto:tcalc@li60.zendesk.com?Subject=Table%20Calculator" target="_top"><img height="18" width="18" > <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
+<li> <a href="https://chrome.google.com/webstore/detail/table-calculator/fknnekoeejdjcbdokeinngldblilkedp?hl=en" target="_blank">GTable Calculator Add-On for Docs (Chrome Store)&nbsp;</a><a target="_blank" href="mailto:tcalc@li60.zendesk.com?Subject=Table%20Calculator" target="_top"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
 
 
 <li> <a href="https://chrome.google.com/webstore/detail/gsheets-calc/ojfmgmplohpjbjnmddbncmeogpfjnfma?utm_source=permalink" target="_blank">GSheets Calc Add-On for Sheets&nbsp;</a><a target="_blank" href="mailto:gsheetscalc@li60.zendesk.com?Subject=GSheets%20Calc" target="_top"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
