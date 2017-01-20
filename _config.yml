@@ -2,4 +2,5 @@ theme: jekyll-theme-cayman
 title: [Learn in 60 seconds]
 description: [We help you learn 60 seconds at a time]
 google_analytics: [UA-54473427]
-href="{{ site.baseurl }}/favicon.ico"
+twitter_username: #tanyagupta  
+github_username:  #tanyagupta
