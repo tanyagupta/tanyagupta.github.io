@@ -1,9 +1,5 @@
    <!-- added Jan 20 2017-->
-   <head>
-  <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-   </head>
 <h1> Products</h1>
 <table style="border: none;"> <tr><td><h4><ul>
 <li> <a href="https://chrome.google.com/webstore/detail/table-calculator/fknnekoeejdjcbdokeinngldblilkedp?hl=en" target="_blank">
