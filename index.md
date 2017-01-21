@@ -1,14 +1,6 @@
    <!-- added Jan 20 2017-->
-    <table> <tr>
-      
-      <td><div style="width:50px;">&nbsp;</div></td>
-      
-      
-      <td>
-
-   
-   
-    <h1> Products</h1>
+<table> <tr><td><div style="width:50px;">&nbsp;</div></td><td>
+<h1> Products</h1>
 <h4><ul>
 <li> <a href="https://chrome.google.com/webstore/detail/table-calculator/fknnekoeejdjcbdokeinngldblilkedp?hl=en" target="_blank">
   GTable Calculator Add-On for Docs (Chrome Store)&nbsp;
