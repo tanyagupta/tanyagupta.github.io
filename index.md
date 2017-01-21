@@ -1,6 +1,6 @@
    <!-- added Jan 20 2017-->
 <h1> Products</h1>
-<table style="border: none;"> <tr><td>..
+<table style="border: none;"> <tr><td>
 
 <h4><ul>
 <li> <a href="https://chrome.google.com/webstore/detail/table-calculator/fknnekoeejdjcbdokeinngldblilkedp?hl=en" target="_blank">
@@ -31,5 +31,10 @@ src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/14849
       </table> <!--end-->    
     
 
-                    
+<style>
+table
+{
+    border: none !important;
+}
+</style>
 
