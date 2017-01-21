@@ -31,10 +31,5 @@ src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/14849
       </table> <!--end-->    
     
 
-<style>
-table
-{
-    border: none !important;
-}
-</style>
+
 
