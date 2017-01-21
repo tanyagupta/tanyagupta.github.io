@@ -1,6 +1,6 @@
    <!-- added Jan 20 2017-->
 <h1> Products</h1>
-<table> <tr><td>
+<table style="border: none;"> <tr><td>..
 
 <h4><ul>
 <li> <a href="https://chrome.google.com/webstore/detail/table-calculator/fknnekoeejdjcbdokeinngldblilkedp?hl=en" target="_blank">
