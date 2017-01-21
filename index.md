@@ -24,7 +24,7 @@ src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/14849
 
       </td><td>    
 
-        <img height="500" width="600" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/wordcloud.png?raw=true">
+        <img height="500" width="800" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/wordcloud.png?raw=true">
 
 
       </td></tr> 
