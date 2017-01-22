@@ -19,5 +19,7 @@ gems:
 #Others
 markdown: kramdown  
 
+include: ["_pages"]
+
 
 
