@@ -1,7 +1,4 @@
----
-layout: page
-title: About
----
+
 # Projects
 
 [Simple Calculator](http://codepen.io/tanyagupta/full/MeJwYO/)
