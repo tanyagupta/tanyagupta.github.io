@@ -1,10 +1,19 @@
 theme: jekyll-theme-cayman
-title: [Learn in 60 seconds]
+ 
+# Setup
+title:        [Learn in 60 seconds]
 description: [bite sized learning you can use]
-google_analytics: [UA-54473427]
-url: http://learnin60seconds.com
-twitter_username: tanyagupta
-github_username: tanyagupta
-markdown: kramdown
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Tanya Gupta
+  url:        http://learnin60seconds.com
+
+# Gems
 gems:
-  - jekyll-relative-links
+  - jekyll-paginate
+
+#Others
+markdown: kramdown  
