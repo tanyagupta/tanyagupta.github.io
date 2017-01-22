@@ -2,6 +2,6 @@ theme: jekyll-theme-cayman
 title: [Learn in 60 seconds]
 description: [bite sized learning you can use]
 google_analytics: [UA-54473427]
-twitter: @tanyagupta
+twitter: tanyagupta
 gems:
   - jekyll-relative-links
