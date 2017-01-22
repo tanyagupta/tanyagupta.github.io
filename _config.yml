@@ -5,6 +5,8 @@ title:        [Learn in 60 seconds]
 description: [bite sized learning you can use]
 baseurl:      ""
 paginate:     1
+values:
+      layout: single
 
 # About/contact
 author:
