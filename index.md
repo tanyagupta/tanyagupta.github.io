@@ -1,5 +1,5 @@
    <!-- added Jan 20 2017-->
-<h1> Products</h1>
+# Products
 <h4><ul>
 <li> <a href="https://chrome.google.com/webstore/detail/table-calculator/fknnekoeejdjcbdokeinngldblilkedp?hl=en" target="_blank">
   GTable Calculator Add-On for Docs (Chrome Store)&nbsp;
@@ -12,6 +12,6 @@ src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/14849
 
 
 [Terms of Service](tos)
-[Terms of Service (TOS)](/_layouts/termsofservice.md)
+
 
 <!--   <img height="100" width="300" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/wordcloud.png?raw=true">  -->
