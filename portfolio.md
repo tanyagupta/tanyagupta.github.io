@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Projects
 
 [Simple Calculator](http://codepen.io/tanyagupta/full/MeJwYO/)
