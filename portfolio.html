@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Projects
+<h1> Projects</h1>
 
 [Simple Calculator](http://codepen.io/tanyagupta/full/MeJwYO/)
 
