@@ -1,27 +1,27 @@
-## Terms of Service and Privacy 
+<h1> Terms of Service and Privacy </h1>
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
 This Application collects some Personal Data from its Users.
 
 
-### Personal Data collected for the following purposes and using the following services:
+<h3> Personal Data collected for the following purposes and using the following services:</h3>
 
 
-### Analytics
+<h3> Analytics</h3>
 
 
 Google Analytics
 - Personal Data: Cookies and Usage data
 
 
-### Contact information
+<h3> Contact information</h3>
 Data owner
 - Li60 and Data Unscience (including Word Cloud Generator Add-On and Web App)
 - <privacy@li60.zendesk.com> 
 
 
 
-### What we collect
+<h3> What we collect</h3>
 
 We collect the following to help us fine tune our algorithm:
 
@@ -33,7 +33,7 @@ We collect the following to help us fine tune our algorithm:
 
 
 
-### What we do with the information we gather
+<h3> What we do with the information we gather</h3>
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -42,19 +42,19 @@ We require this information to understand your needs and provide you with a bett
 
 
 
-### Links to other websites
+<h3> Links to other websites</h3>
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 
 
-### Controlling your personal information
+<h3> Controlling your personal information</h3>
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.
 
 
 
-### Limitation of Liability
+<h3> Limitation of Liability</h3>
 
 The information contained in this website is for general information purposes only. The information is provided by us and while we endeavor to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk. 
 
