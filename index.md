@@ -12,6 +12,6 @@ src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/14849
 
 
 [Terms of Service](tos)
-[Terms of Service (TOS)](/layouts/termsofservice)
+[Terms of Service (TOS)](/_layouts/termsofservice)
 
 <!--   <img height="100" width="300" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/wordcloud.png?raw=true">  -->
