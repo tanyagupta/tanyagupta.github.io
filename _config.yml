@@ -10,6 +10,7 @@ paginate:     1
 author:
   name:       Tanya Gupta
   url:        http://learnin60seconds.com
+  baseurl:    ""
 
 # Gems
 gems:
