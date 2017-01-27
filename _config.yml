@@ -11,8 +11,8 @@ values:
 
 # About/contact
 author:
-  name:       [Tanya Gupta]
-  url:        [http://learnin60seconds.com]
+  name:       Tanya Gupta
+  url:        http://learnin60seconds.com
   baseurl:    ""
 
 # Gems
