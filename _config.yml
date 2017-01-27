@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 # Setup
 title:        [Learn in 60 seconds]
 description: [bite sized learning you can use]
-google_analytics: [UA-54473427-3]
+google_analytics: [UA-54473427-1]
 baseurl:      ""
 paginate:     1
 values:
