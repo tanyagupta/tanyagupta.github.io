@@ -19,8 +19,9 @@ src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/14849
 <li> <a href="https://chrome.google.com/webstore/detail/gsheets-calc/ojfmgmplohpjbjnmddbncmeogpfjnfma?utm_source=permalink" target="_blank">GSheets Calc Add-On for Sheets&nbsp;</a><a target="_blank" href="mailto:gsheetscalc@li60.zendesk.com?Subject=GSheets%20Calc" target="_top"><img style="height:25px; width=25px;" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li></ul></h4>
 
 <h1>Team</h1><ul>
+
+Tanya Gupta<li><a href="http://myamerica.life/static/tgportfolio/index.html" target="_blank">Portfolio</a></li><li><a href="http://myamerica.life/static/tgresume/index.html" target="_blank">Resume</a></li><br>
 Abir Qasem<li><a target="_blank" href="https://scholar.google.com/citations?user=OGBSiZwAAAAJ&hl=en">Publications</a></li><li><a target="_blank" href="http://abirqasem.wixsite.com/home">Resume</a></li><br>
-Tanya Gupta<li><a href="http://myamerica.life/static/tgportfolio/index.html" target="_blank">Portfolio</a></li><li><a href="http://myamerica.life/static/tgresume/index.html" target="_blank">Resume</a></li>
 </ul>
 
 [Terms of Service](tos)
