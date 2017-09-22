@@ -1,6 +1,6 @@
    <!-- added Jan 20 2017-->
-<h1> Products..</h1>
-<h4><ul>
+<h1> Products</h1>
+<ul>
 
 <li> <a href="https://chrome.google.com/webstore/detail/pixabay-free-images/joobpkaagmlbkkcijfepmlieedgmmdbj" target="_blank">
   Pixabay - Free Images (Chrome Store)&nbsp;
@@ -17,6 +17,11 @@ src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/14849
  href="mailto:tcalc@li60.zendesk.com?Subject=Table%20Calculator" target="_top"><img style="height:25px; width=25px;" 
 src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
 <li> <a href="https://chrome.google.com/webstore/detail/gsheets-calc/ojfmgmplohpjbjnmddbncmeogpfjnfma?utm_source=permalink" target="_blank">GSheets Calc Add-On for Sheets&nbsp;</a><a target="_blank" href="mailto:gsheetscalc@li60.zendesk.com?Subject=GSheets%20Calc" target="_top"><img style="height:25px; width=25px;" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li></ul></h4>
+
+<h1>Team</h1>
+<ul>Abir Qasem<li><a target="_blank" href="https://scholar.google.com/citations?user=OGBSiZwAAAAJ&hl=en">Publications</a></li><li><a target="_blank" href="http://abirqasem.wixsite.com/home">Resume</a></li>
+Tanya Gupta<li><a href="http://myamerica.life/static/tgportfolio/index.html" target="_blank">Portfolio</li><li><a href="http://myamerica.life/static/tgresume/index.html" target="_blank">Resume</a></li>
+</ul>
 
 [Terms of Service](tos)
 
