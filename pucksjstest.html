@@ -1,0 +1,76 @@
+<html>
+ <head>
+   <title>IFTTT Web Bluetooth Example</title>
+ </head>
+ <body>
+  <pre id="log"></pre>
+  <button>Click here to start</button><br/>
+  <iframe id="ifttt" style="width:640px;height:32px"></iframe>
+  <script src="https://www.puck-js.com/puck.js"></script>
+  <script type="text/javascript">
+    // ------------------------------------- REPLACE ME
+    var URL = "https://maker.ifttt.com/trigger/puck_pressed/with/key/jghfJHGFhjkgHJKGjhgJHgkHfRDhgfKJtfrjgh";
+    // ------------------------------------- REPLACE ME
+    var button = document.getElementsByTagName('button')[0];
+    var logelement = document.getElementById('log');
+    var iftttRequests = 0;
+    function log(txt) {
+      logelement.innerHTML += txt+"\n";
+    }
+
+    function ifttt() {
+      document.getElementById('ifttt').src = URL+"?"+iftttRequests;
+      iftttRequests++;
+    }
+
+    // Called when we get a line of data
+    function onLine(v) {
+      log("Received: "+JSON.stringify(v));
+      if (v.indexOf("Pressed")>=0) {
+        log("Calling IFTTT");
+        ifttt();
+      }
+    }
+
+    // When clicked, connect or disconnect
+    var connection;
+    button.addEventListener("click", function() {
+      if (connection) {
+        log("Closing connection");
+        connection.close();
+        connection = undefined;
+      }
+      log("Opening connection");
+      Puck.connect(function(c) {
+        if (!c) {
+          log("Couldn't connect!");
+          return;
+        }
+        log("Connecting...");
+        connection = c;
+        // Handle the data we get back, and call 'onLine'
+        // whenever we get a line
+        var buf = "";
+        connection.on("data", function(d) {
+          buf += d;
+          var i = buf.indexOf("\n");
+          while (i>=0) {
+            onLine(buf.substr(0,i));
+            buf = buf.substr(i+1);
+            i = buf.indexOf("\n");
+          }
+        });
+        // First, reset Puck.js
+        connection.write("\x10reset();\n", function() {
+          // Wait for it to reset itself
+          setTimeout(function() {
+            // Now tell it to write data on the current light level to Bluetooth 10 times a second
+            connection.write("\x10setWatch(function(){Bluetooth.println('Pressed');},BTN,{repeat:true,debounce:50,edge:'rising'});\n",
+              function() { log("Ready!"); });
+          }, 1500);
+        });
+      });
+    });
+  </script>
+ </body>
+</html>
