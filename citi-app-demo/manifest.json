@@ -2,7 +2,7 @@
   "name": "Citizenship Test Flashcards",
   "short_name": "Flashcards",
   "icons": [{
-    "src": "/citi-app-demo/static/images/icons/android-chrome-192x192.png",
+    "src": "citi-app-demo/static/images/icons/android-chrome-192x192.png",
       "sizes": "192X192",
       "type": "image/png"
     }, {
