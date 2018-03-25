@@ -1,0 +1,33 @@
+---
+---
+
+@import "{{ site.theme }}";
+table, th, td
+{
+  border: 0;
+  border-style: none;
+}
+table
+{
+  border-collapse:collapse;
+}
+
+
+
+ul.share-buttons{
+  list-style: none;
+  text-align:center;
+  padding: 0;
+}
+
+ul.share-buttons li{
+  display: inline;
+  
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  grid-auto-rows: minmax(100px, auto);
+}
+

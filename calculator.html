@@ -1,0 +1,382 @@
+
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<link rel="stylesheet" href="https://ssl.gstatic.com/docs/script/css/add-ons.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script> 
+<link rel="stylesheet" href="//code.jquery.com/ui/1.11.3/themes/smoothness/jquery-ui.css"> <!--check-->
+  
+
+<style>
+@charset "UTF-8";
+.numfonts {
+  color: #333333;
+  font-family: â€˜Palatino Linotypeâ€™, â€˜Book Antiquaâ€™, Palatino, serif;
+
+}
+
+.number,.pill-button {
+ color: black;
+  display: inline-block;
+  font-size: inherit;
+  font-weight: normal;
+ text-align: center;
+  text-decoration: none;
+}
+
+.number:hover:not(:disabled) { /*  applies to hover if not disabled */
+  border-color: black black black;
+  cursor: pointer;
+  background: 	#D3D3D3;
+}
+
+.number:disabled,.pill-button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+
+
+button: hover {
+  border-color: black black black;
+}
+
+
+.pill-button {
+  display: inline-block;
+  font-weight: normal;
+  background: 	#D3D3D3;
+  text-align: center;
+  text-decoration: none;
+  background-clip: padding-box;
+}
+
+
+.pill-button:hover:not(:disabled) {
+  background-clip: padding-box;
+  border-color: black black black;
+  cursor: pointer;
+}
+
+
+.pill-button-blue:hover{
+ background-clip: padding-box;
+   border-color: #000033 #000033 #000033;
+  color: #000066;
+  cursor: pointer;
+
+}
+
+.pill-button-blue{
+ background: #3369E8;
+ color: white;
+}
+
+
+
+
+
+.note{
+ font-size: 50%;
+}
+
+
+
+.row {
+  display: block;
+  text-align: center;
+}
+
+
+.row button {
+   width: 2px;
+  height: 30px;
+  margin: 3px;
+
+
+}
+
+.button{
+  font-size: 20px;
+}
+.textbox {
+
+   text-align: right;
+
+  background-color: white;
+  font-size:20px;
+  height: 35px;
+  width:  245px;
+  display: block;
+  margin: 2px auto;
+
+
+  color: black;
+
+  font-family: 'Montserrat';
+
+}
+
+.titles {
+
+  text-align:center;
+  margin: 15px;
+
+
+}
+
+
+
+</style>
+<div id= "instructionsHead" class="titles"><h1> A Simple Calculator</div>
+  <h2 class="titles">Free Code Camp</h2>
+<div id= "instructions"></div><br><br>
+
+
+<div class="calculator" id="calc_area">
+
+  <input type="textbox"class="textbox" disabled="disabled" id="answer" />
+  <div class="row">
+    <button class="button pill-button" value="AC">AC</button>
+    <button id="clear_entry" button class="button pill-button" value="CE">CE</button>
+
+    <button id="copy_text"  class="button pill-button">Copy</button><div id="note" hidden=true>Click to copy to clipboard</div>
+
+
+  </div>
+
+
+  <div class="row">
+    <button class="button number" value="7">7</button>
+    <button class="button number"  value="8">8</button>
+    <button class="button number"  value="9">9</button>
+
+  </div>
+
+
+  <div class="row">
+    <button class="button number"  value="4">4</button>
+    <button class="button number"  value="5">5</button>
+    <button class="button number"  value="6">6</button>
+
+  </div>
+
+  <div class="row">
+    <button class="button number"  value="1">1</button>
+    <button class="button number"  value="2">2</button>
+    <button class="button number"  value="3">3</button>
+
+  </div>
+  <div class="row">
+    <button class="button number"  value="0">0</button>
+    <button class="button number pill-button" value=".">.</button>
+    <button class="action button pill-button-blue" value="=">=</button>
+  </div>
+  <div class="row">
+  <button class="button pill-button symbol operator" value="/">/</button>
+  <button class="button pill-button symbol operator" value="*">*</button>
+   <button  class="button pill-button symbol operator"  value="-">-</button>
+   </div>
+<div class="row">
+<div> </div> 
+<button class="button pill-button operator" value="+">+</button>
+<div> </div>
+   </div>
+
+   
+</div>
+ <audio id="beep" src="http://abir.x10.mx/jstest/beep-01a.wav"></audio>
+<script>
+var final=0; // holds the final numerical result after the = has been hit
+var result='' // holds the expression that will be evaluated if = is hit
+
+//$(".button").click(start_calc);//this makes sure that the calc engine starts as soon as any button is hit
+
+$("#copy_text").mouseover(function(){
+    $("#note").show();
+});
+$("#copy_text").mouseout(function(){
+    $("#note").hide();
+});
+$(".button").click(start_calc);
+
+
+
+
+var button = document.getElementById('copy_text');
+
+button.addEventListener('click', function(e) {
+
+  e.preventDefault();
+  $("#answer").prop('disabled', false);
+  document.execCommand('copy', false, document.getElementById('answer').select());
+  $("#answer").prop('disabled', true);
+
+});
+
+
+
+function start_calc(){
+  var key = $(this).attr("value");
+  $('#clear_entry').prop("disabled",false)
+  if (key=="Copy"){
+    this.preventDefault();
+
+  document.execCommand('copy', false, result);
+};
+
+  var res=key_press(key)
+  var beep=document.getElementById("beep");
+  if (res===-1 && key !== "Copy"){
+    beep.play();
+  }
+    $(".textbox").val(result)
+  if (key==="="){
+    $('#clear_entry').prop("disabled",true);
+
+    $('.number').prop("disabled",true);
+    $('.operator').prop("disabled",false);
+    $(".textbox").val(final)
+
+
+  }
+  else{
+
+    $('.number').prop("disabled",false);
+
+    $(".textbox").val(result)
+
+
+
+  }
+
+}
+
+
+
+function key_press (key) {
+
+  if(key=='Copy'){
+
+  }
+
+
+
+  if (key == 'CE') {
+
+    result = result.slice (0, result.length-1); // discard last entry
+    return 0;
+
+  }
+
+  if (key =='AC') {
+    result ='';
+    final =0;
+    return 0;
+  }
+
+  // if its a digit we add
+
+  if (key.match(/[0-9]/)) {
+    result+=key;
+    return 0;
+
+  }
+
+
+  // the second condition avoids having two dots
+
+  if (key=='.' && result[result.length-1]!='.') {
+    result+=key;
+    return 0;
+  }
+
+
+  // operations are the trickiest one
+
+  if (key=='+' ||key=='-'||key=='*' || key=='/') {
+    // if already have entries
+    if (result.length>0) {
+      // and the last entry is a digit  we are fine
+      if (result[result.length-1].match (/[0-9]/)) {
+        result+=key;
+        return 0;
+
+      }
+      else {
+        // the last entry was an operator
+        if (key!= result[result.length-1]){
+          if (isHigher(key, result[result.length-1]))
+            result =result.slice(0, result.length-1) + key
+          else
+            //result+=key;
+            result=replace_last(result,key);
+          return 0;
+        }
+        // the new op and last entry are the same
+        else
+          return -1;// repeat operator not registered
+
+      }
+    }
+    // this is first entry - so we have to make sure *n or /n does not mess things up
+    else {
+      result+='0'+key;
+      return 0;
+
+    }
+
+ }
+
+
+  if (key=='=') {
+
+    try {
+      final= eval (result)
+      result =String(final);
+    }
+
+    catch (e) {
+
+     //Logger.log(e);
+     result ='ERROR';
+     Logger.log(result);
+     final =0;
+
+    }
+    return 0;
+
+ }
+
+
+
+
+  return -1; // we have a bad key so ignore
+
+}
+
+
+
+function isHigher (op1, op2) {
+  var order ={
+    '+':0,
+    '-':0,
+    '*':1,
+    '/':1,
+  }
+
+  return order[op1] >order[op2];
+
+
+
+}
+
+function replace_last(main,char){
+
+
+
+  return main.slice(0,main.length-1)+char
+
+
+
+}
+</script>
