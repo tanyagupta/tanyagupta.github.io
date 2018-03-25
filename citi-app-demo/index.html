@@ -1,0 +1,272 @@
+
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width,user-scalable=yes,initial-scale=1">
+<meta name="description" content="A website to welcome future immigrants and help them prepare for the US citizenship exam">
+<meta name="author" content="learnin60seconds.com">
+<meta name="keywords" content="US,citizenship,UCIS,naturalization,exam,USA,civics,Preguntas de educación cívica,Examen de Naturalización">
+<meta name="theme-color" content="#002868">
+<meta charset="UTF-8">
+ <link rel="manifest" href="/manifest.json">
+<main>
+  <title>Civics Test Helper</title>
+  <link rel="icon" type="image/png" href="static/images/icons/favicon.ico">
+  <link href='https://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
+
+  </head>
+</main>
+<style>
+
+body {
+  background-color:#01579B;
+  font-family: 'Inconsolata', sans-serif;
+  font-size: 18px;
+  color: #363636;
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+  text-align: center;
+  box-sizing: border-box; }
+
+select {
+  font-family: 'Inconsolata', sans-serif;
+  font-size: 16px;
+  color: #363636;
+  margin: 0;
+  padding: 0;
+
+}
+
+#start {
+  -webkit-border-radius: 44;
+  -moz-border-radius: 44;
+  border-radius: 44px;
+   font-family: 'Inconsolata', sans-serif;
+  color: #ffffff;
+  font-size: 55px;
+  background: #01579B;
+  padding: 7px 20px 10px 20px;
+  text-decoration: none;
+}
+.author_text{
+  font-size:20px;
+}
+
+
+
+#flashcard {
+  border: 3px solid #3D7587;
+  border-radius: 5px;
+  max-width: 300px;
+  width: 90%;
+  height: 520px;
+  padding: 0 40px;
+  background-color: white;
+  margin: 60px auto 30px;
+  position: relative; }
+  @media (max-width: 640px) {
+    #flashcard {
+      max-width: 240px;
+      padding: 0 20px;
+      height: 460px; } }
+  #flashcard .card-stack-1 {
+    border: 3px solid #3D7587;
+    border-radius: 5px;
+    max-width: 300px;
+    width: 90%;
+    height: 520px;
+    padding: 0 40px;
+    background-color: white;
+    position: absolute;
+    top: -13px;
+    right: -13px;
+    z-index: -1; }
+    @media (max-width: 640px) {
+      #flashcard .card-stack-1 {
+        max-width: 240px;
+        padding: 0 20px;
+        height: 460px; } }
+  #flashcard .card-stack-2 {
+    border: 3px solid #3D7587;
+    border-radius: 5px;
+    max-width: 300px;
+    width: 90%;
+    height: 520px;
+    padding: 0 40px;
+    background-color: white;
+    position: absolute;
+    top: -23px;
+    right: -23px;
+    z-index: -2; }
+    @media (max-width: 640px) {
+      #flashcard .card-stack-2 {
+        max-width: 240px;
+        padding: 0 20px;
+        height: 460px; } }
+  #flashcard .card-stack-3 {
+    border: 3px solid #3D7587;
+    border-radius: 5px;
+    max-width: 300px;
+    width: 90%;
+    height: 520px;
+    padding: 0 40px;
+    background-color: white;
+    position: absolute;
+    top: -33px;
+    right: -33px;
+    z-index: -3; }
+    @media (max-width: 640px) {
+      #flashcard .card-stack-3 {
+        max-width: 240px;
+        padding: 0 20px;
+        height: 460px; } }
+
+.question-container, .answer-container {
+  height: 190px;
+  padding: 15px 0;
+  position: relative; }
+
+.answer-container {
+  height: 270px; }
+
+.question, .answer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+  width: 100%; }
+
+.answer  {
+  display: block;
+  margin-top: 20px; }
+.answer a {
+  font-size: 16px;
+  text-decoration: none;
+  border-bottom: 1px solid;
+  color: #90becd; }
+  .answer a:hover {
+    border-bottom: none; }
+
+button {
+  background-color: #01579B;
+  font-family: 'Iconsolata', sans-serif;
+  font-size: 18px;
+  color: white;
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 0 5px; }
+  button:hover {
+    cursor: pointer; }
+
+.faded {
+  opacity: .2; }
+  .faded:hover {
+    cursor: default; }
+
+footer {
+  margin: 100px 20px 50px;
+  font-size: 16px;
+  color: white; }
+  footer a {
+    font-size: 16px;
+    text-decoration: none;
+    border-bottom: 1px solid;
+    color: white; }
+    footer a:hover {
+      border-bottom: none; }
+
+@media (max-width: 640px) {
+  body {
+    font-size: 16px; }
+
+  .question-container, .answer-container {
+    height: 160px; }
+
+  .answer-container {
+    height: 240px; } }
+
+
+/* end */
+</style>
+
+<body>
+		<section id="flashcard">
+			<article class="card">
+
+				<div class="question-container">
+
+					<div id="question" class="question"><button id="start" onclick="start()" >Start</button></div>
+
+
+				</div>
+				<div id= "answer" class="answer-container">
+					<span id="answer_text" class="answer"></span>
+
+
+				</div>
+
+
+
+			</article>
+			<div class="card-stack-1"></div>
+			<div class="card-stack-2"></div>
+			<div class="card-stack-3"></div>
+		</section>
+
+		<section id="controls">
+
+			<button id="get_previous" onclick="getprevious()" >&lt;</button>
+			<button id="show_answer" onclick="showanswer()" >show answer</button>
+
+      <button id="get_next" onclick="getnext()" class="next"> &gt;</button>
+
+
+		</section>
+
+		<footer>
+      <p class="footer_text">
+      <div class="author_text">By </div><a href='https://github.com/tanyagupta/offline-uscitizenship-flashcards'><div class="author_text">Tanya Gupta</div></a>
+       (Design inspired by <a href='https://github.com/ahoef/es2015-flashcard-app'>ahoef</a> and Icon pack by
+       <a href="https://icons8.com">Icons8</a>)
+     </p>
+		</footer>
+
+
+  <script src="static/js/libs.js"></script>
+  <script defer src="static/js/scripts.js"></script>
+
+
+
+
+
+</body>
+
+<script>
+ $("#start").prop("disabled",true);
+ $("#get_previous").prop("disabled",true);
+$("#show_answer").prop("disabled",true);
+$("#get_next").prop("disabled",true);
+
+
+
+/*global caches*/
+/*global navigator*/
+
+
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('service-worker.js')
+      .then(function(registration) {
+        console.log('Service Worker registration successful with scope: ',
+        registration.scope);
+      })
+      .catch(function(err) {
+        console.log('Service Worker registration failed: ', err);
+      });
+  }
+
+</script>
+</html>
