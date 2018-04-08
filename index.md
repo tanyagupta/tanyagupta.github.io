@@ -1,5 +1,5 @@
    <!-- added Jan 20 2017-->
-<h1> Products</h1><h4>
+<h1> Products (Chromestore) </h1><h4>
 <ul>
 
 <li> <a href="https://chrome.google.com/webstore/detail/pixabay-free-images/joobpkaagmlbkkcijfepmlieedgmmdbj" target="_blank">
