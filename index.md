@@ -21,7 +21,7 @@ src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/14849
 <h1>Team</h1><ul>
 
 Tanya Gupta<li><a href="http://myamerica.life/static/tgportfolio/index.html" target="_blank">Portfolio</a></li><li><a href="http://myamerica.life/static/tgresume/index.html" target="_blank">Resume</a></li><br>
-[Programming and Projects](resume)
+
 
 <br>
 Abir Qasem<li><a target="_blank" href="https://scholar.google.com/citations?user=OGBSiZwAAAAJ&hl=en">Publications</a></li><li><a target="_blank" href="http://abirqasem.wixsite.com/home">Resume</a></li><br>
@@ -29,5 +29,5 @@ Abir Qasem<li><a target="_blank" href="https://scholar.google.com/citations?user
 
 [Terms of Service](tos)
 
-
+[Programming and Projects](resume)
 <!--   <img height="100" width="300" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/wordcloud.png?raw=true">  -->
