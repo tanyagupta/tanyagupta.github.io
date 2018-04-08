@@ -29,5 +29,5 @@ Abir Qasem<li><a target="_blank" href="https://scholar.google.com/citations?user
 
 [Terms of Service](tos)
 
-[Programming and Projects](resume)
+[Development Work, Programming, and Projects](resume.pdf)
 <!--   <img height="100" width="300" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/wordcloud.png?raw=true">  -->
