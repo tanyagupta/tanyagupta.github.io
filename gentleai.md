@@ -2,7 +2,7 @@
 - Be aware of the major AI services in the cloud✓
 - Appreciate the possible applications of AI at the Bank✓
 - Experience of working with an AI in a sandbox environment✓
-- Understand one end to end complex interaction with an AI✓
+- Understand one end to end interaction with an AI✓
 - Independently program  one end to end complex interaction with an AI✓
 - Prepare for group project (to apply an AI at work)✓
 - Understand one end to end complex interaction with an AI✓
