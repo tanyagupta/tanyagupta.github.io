@@ -15,3 +15,8 @@
 1. If Uber offers autonomous car in DC (or where I live) - I will be the first to call it, last to call it, call for legislation banning it.
 
  
+[![](https://api.gh-polls.com/poll/01CD79N5HRFRYHQVF9BD2AC57K/Ban)](https://api.gh-polls.com/poll/01CD79N5HRFRYHQVF9BD2AC57K/Ban/vote)
+[![](https://api.gh-polls.com/poll/01CD79N5HRFRYHQVF9BD2AC57K/Don't%20Ban)](https://api.gh-polls.com/poll/01CD79N5HRFRYHQVF9BD2AC57K/Don't%20Ban/vote)
+
+And two more questions here: https://goo.gl/forms/5Y5FXFI15fyq2ve93
+
