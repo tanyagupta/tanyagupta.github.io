@@ -12,8 +12,7 @@
 - Successfully completed a project on use of AI at the Bank✓
 
 ## Day 0 Materials
-### This one is optional but if you have few minutes on the weekend  I want to know a bit about you even if you want to stay anonymous.
-Go [here](https://goo.gl/forms/5Y5FXFI15fyq2ve93)
+### This one is optional but if you have few minutes on the weekend  I want to know a bit about you even if you want to stay anonymous. Please go [here](https://goo.gl/forms/5Y5FXFI15fyq2ve93) to start
 
 ### Getting Started
 1. We will be using Slack for Qs and As, discussion and the group project, Google Apps Script for coding, Watson, and Google Drive to access the documents used for this course.
