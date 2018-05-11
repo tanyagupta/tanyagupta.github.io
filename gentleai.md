@@ -18,7 +18,7 @@
 [![](https://api.gh-polls.com/poll/01CD79N5HRFRYHQVF9BD2AC57K/Ban)](https://api.gh-polls.com/poll/01CD79N5HRFRYHQVF9BD2AC57K/Ban/vote)
 [![](https://api.gh-polls.com/poll/01CD79N5HRFRYHQVF9BD2AC57K/Don't%20Ban)](https://api.gh-polls.com/poll/01CD79N5HRFRYHQVF9BD2AC57K/Don't%20Ban/vote)
 
-And two more questions here: https://goo.gl/forms/5Y5FXFI15fyq2ve93
+And two more questions [here](https://goo.gl/forms/5Y5FXFI15fyq2ve93)
 
 ### Getting Started
 1. We will be using Slack for Qs and As, discussion and the group project, Google Apps Script for coding, Watson, and Google Drive to access the documents used for this course.
