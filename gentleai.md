@@ -6,21 +6,14 @@
 - Experience of working with an AI in a sandbox environment✓
 - Understand one end to end interaction with an AI✓
 - Independently program  one end to end complex interaction with an AI✓
-- Prepare for group project (to apply an AI at work)✓
-- Understand one end to end complex interaction with an AI✓
-- Independently program  one end to end complex interaction with an AI✓
+- Understand one end to end interaction with an AI✓
+- Independently program  one end to end interaction with an AI✓
 - Prepare for group project (to apply an AI at work)✓
 - Successfully completed a project on use of AI at the Bank✓
 
 ## Day 0 Materials
-### This one is optional but if you have few minutes on the weekend  I want to know a bit about you even if it anonymous.
-1. If Uber offers autonomous car in DC (or where I live) - I will be the first to call it, last to call it, call for legislation banning it.
-
- 
-[![](https://api.gh-polls.com/poll/01CD79N5HRFRYHQVF9BD2AC57K/Ban)](https://api.gh-polls.com/poll/01CD79N5HRFRYHQVF9BD2AC57K/Ban/vote)
-[![](https://api.gh-polls.com/poll/01CD79N5HRFRYHQVF9BD2AC57K/Don't%20Ban)](https://api.gh-polls.com/poll/01CD79N5HRFRYHQVF9BD2AC57K/Don't%20Ban/vote)
-
-And two more questions [here](https://goo.gl/forms/5Y5FXFI15fyq2ve93)
+### This one is optional but if you have few minutes on the weekend  I want to know a bit about you even if you want to stay anonymous.
+Go [here](https://goo.gl/forms/5Y5FXFI15fyq2ve93)
 
 ### Getting Started
 1. We will be using Slack for Qs and As, discussion and the group project, Google Apps Script for coding, Watson, and Google Drive to access the documents used for this course.
