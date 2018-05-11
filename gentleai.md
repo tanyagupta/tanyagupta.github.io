@@ -1,3 +1,5 @@
+# A very gentle (and hands-on!) interaction with an AI
+
 ## Course Outcomes
 - Be aware of the major AI services in the cloud✓
 - Appreciate the possible applications of AI at the Bank✓
