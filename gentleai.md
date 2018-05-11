@@ -44,7 +44,7 @@ And two more questions here: https://goo.gl/forms/5Y5FXFI15fyq2ve93
 1. Google App Script (GAS) [setup and hello world](https://docs.google.com/document/d/1xVp-inLYJlFLMT1mNpNoM9CQR1Y777_R6Fe5t0fFfB8/edit?usp=sharing) 
 2. GAS hands on - [building_blocks](https://script.google.com/d/1HTvUeWpRDHKKmPYOW5M0jabQl4tYVH5mpGyEEm0fXyhmRXEuvKDwqDBd/edit?usp=sharing)
 1. [Bluemix credentialing](https://docs.google.com/document/d/1U_5xBIWRHTlpNPP9HXr7T59vnm_UIublnJm2uNj2T9g/edit?usp=sharing)
-1. [console.bluemix.net](console.bluemix.net)
+1. [console.bluemix.net](http://console.bluemix.net)
 
 ## Day 3 Materials
 1. [Monolith](https://script.google.com/d/1_3x5gDdo0adghcUCB4vhij-kK9uMkO3gkaiTw2RC1y7bG5m_aw8qHilW/edit?usp=sharing)
