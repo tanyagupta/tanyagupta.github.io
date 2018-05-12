@@ -36,7 +36,7 @@
 
 ## Day 2 Materials
 1. Google App Script (GAS) [setup and hello world](https://docs.google.com/document/d/1xVp-inLYJlFLMT1mNpNoM9CQR1Y777_R6Fe5t0fFfB8/edit?usp=sharing) 
-2. GAS hands on - [building_blocks](https://script.google.com/d/1HTvUeWpRDHKKmPYOW5M0jabQl4tYVH5mpGyEEm0fXyhmRXEuvKDwqDBd/edit?usp=sharing)
+2. GAS hands on - [building_blocks](https://script.google.com/d/1HTvUeWpRDHKKmPYOW5M0jabQl4tYVH5mpGyEEm0fXyhmRXEuvKDwqDBd/edit?usp=sharing) and [input data](https://docs.google.com/document/d/1sdRo5Anm53RVOQPyK7nlxWfxx77A2YiNe84j1P9kbU8/edit)
 1. [Bluemix credentialing](https://docs.google.com/document/d/1U_5xBIWRHTlpNPP9HXr7T59vnm_UIublnJm2uNj2T9g/edit?usp=sharing)
 1. [console.bluemix.net](http://console.bluemix.net)
 
