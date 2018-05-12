@@ -27,6 +27,8 @@
     
     ![thread](https://www.wikihow.com/images/thumb/4/4d/Reply-to-Slack-Messages-on-Android-Step-5.jpg/aid9780187-v4-900px-Reply-to-Slack-Messages-on-Android-Step-5.jpg)
 
+### [Presentation](https://docs.google.com/presentation/d/1gbKteCumiofuGHg90srdgr1tOKj6JUceSnT1p8XtbCY/edit?usp=sharing) used for Lecture
+
 
 ## Day 1 Materials
 1. [Your instructor](https://drive.google.com/file/d/1MLUlrD2G3sjoWtUYGxc_8eKy8iz_5Fgg/view?usp=sharing)
