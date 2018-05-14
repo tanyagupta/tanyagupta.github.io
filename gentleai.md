@@ -33,6 +33,7 @@
 ## Day 1 Materials
 1. [Your instructor](https://drive.google.com/file/d/1MLUlrD2G3sjoWtUYGxc_8eKy8iz_5Fgg/view?usp=sharing)
 1. Ticket handler: [Link to tickets data](https://docs.google.com/document/d/1wnF9GU-YkcadxdCCMyxJPuyTxKFICZn--H7mEyjlzac/edit?usp=sharing)
+1. [Polly results](https://app.polly.ai/dashboard) requires instructor signin 
 1. [Solution](https://docs.google.com/document/d/16rHhAmvs7KolihwcdGnqhiHCVGVpxOoGSQYUBeeCvFc/edit?usp=sharing)
 1. [Watson Sandbox](https://tone-analyzer-demo.ng.bluemix.net/)
 
