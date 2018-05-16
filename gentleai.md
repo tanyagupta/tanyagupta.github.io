@@ -61,13 +61,7 @@ Welcome to the course everyone and a special welcome to the 25 CO staff! I am lo
 
  
 Room numbers and webex links
-May 14: I 8300 - 75 Webex link: https://worldbankgroup.webex.com/worldbankgroup/j.php?MTID=ma4249299dbc67548b3318e6c558abc3f
-May 15: I 6056 -30 Webex: https://worldbankgroup.webex.com/worldbankgroup/j.php?MTID=mfe261d3cab1a8ecb7cfe01f4cffa091e
-May 16: I 5040 -34: Webex: https://worldbankgroup.webex.com/worldbankgroup/j.php?MTID=m9f5a8e4b0fd7f3ad65574e19f02af098
-May 21: I 6056 -30: Webex: https://worldbankgroup.webex.com/worldbankgroup/j.php?MTID=m5ed350de70f096dd44a3b3ab84b1ddc3
- 
-If any of the links don't work, try the OLC page for this course: https://wbg.sabacloud.com/Saba/Web_spf/NA1PRD0002/common/leclassview/class-00037013
-
+**deleted**
 
 
  
@@ -92,7 +86,7 @@ Slack is becoming an integral part of virtual classrooms and the workplace. It i
 We have set up a Slack space with multiple channels for this course. Join the Slack space here, join all the channels you want. Each day post the questions you have in the corresponding channel (ideally publicly). Please do answer questions that others have posed too if you think you can. This will extend the class beyond the three hours but give us a full one hour of class time each day. It also makes the learning experience more collaborative which is specially designed for CO or other remote staff. Instructions on how to use slack are on the course home page below
 
 Who you are
-I am curious to find out about your motivation for joining this course.  So if you have a few minutes this weekend, I would really appreciate your completing this survey https://goo.gl/forms/fdAWz6DAjIJ85FOf2.  It is very short, you can be anonymous but it may be fun and useful to do so. 
+I am curious to find out about your motivation for joining this course.  So if you have a few minutes this weekend, I would really appreciate your completing this survey **deleted**.  It is very short, you can be anonymous but it may be fun and useful to do so. 
 
 
 
