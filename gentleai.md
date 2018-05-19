@@ -16,7 +16,7 @@
 
 ### Getting Started
 1. We will be using Slack for Qs and As, discussion and the group project, Google Apps Script for coding, Watson, and Google Drive to access the documents used for this course.
-More here
+More [instructions on how  to use Slack here](https://tanyagupta.github.io/gentleai_slack)
 
 ### [Presentation](https://docs.google.com/presentation/d/1gbKteCumiofuGHg90srdgr1tOKj6JUceSnT1p8XtbCY/edit?usp=sharing) used for Lecture
 
