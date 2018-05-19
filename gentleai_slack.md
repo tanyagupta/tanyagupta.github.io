@@ -1,3 +1,5 @@
+## Using Slack
+
 1. Click on this [Slack invite](https://join.slack.com/t/learnin60/shared_invite/enQtMzU2NTAxODQ2Njk1LTYyM2ZiMjRhMWNjZGQyNjZkZjc4Zjk0NTY2MDY2OGM3NWQzNGNhY2NmOTljMTQxY2ZjNmIwNTEzMmZmNDdjNjQ) 
     1. You will have to provide your email address and Slack will send you a confirmation email which you can click to sign up and join.
     2. Go through the sign up screen and hit “skip for now” when you are asked to invite teammates. 
