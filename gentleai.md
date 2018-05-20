@@ -39,6 +39,10 @@ More [instructions on how  to use Slack here](https://tanyagupta.github.io/gentl
 1. [Input data](https://docs.google.com/document/d/1sdRo5Anm53RVOQPyK7nlxWfxx77A2YiNe84j1P9kbU8/edit?usp=sharing)
 1. [Group Project](https://docs.google.com/forms/d/e/1FAIpQLScY1fNNX_2lbIlAAySW5T-g5U0zuY_SSgONznAmRsyF4Lrw3w/viewform?usp=sf_link)
 
+## Day 4 Materials
+1. See PPT
+1. [Survey](https://goo.gl/forms/1teYfopREyqC1mzS2)
+
 ## Annex 
 Getting the most out of this course
 This course covers a lot in a short time so here are a few suggestions to get the most out of it
