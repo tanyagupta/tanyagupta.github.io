@@ -40,7 +40,7 @@ More [instructions on how  to use Slack here](https://tanyagupta.github.io/gentl
 1. [Group Project](https://docs.google.com/forms/d/e/1FAIpQLScY1fNNX_2lbIlAAySW5T-g5U0zuY_SSgONznAmRsyF4Lrw3w/viewform?usp=sf_link)
 
 ## Day 4 Materials
-1. See PPT
+1. See updated [presentation](https://docs.google.com/presentation/d/1gbKteCumiofuGHg90srdgr1tOKj6JUceSnT1p8XtbCY/edit?usp=sharing) used for Lecture to incorporate submitted ideas from group projects
 1. [Survey](https://goo.gl/forms/1teYfopREyqC1mzS2)
 
 ## Annex 
