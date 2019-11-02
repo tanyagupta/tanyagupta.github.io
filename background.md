@@ -1,5 +1,5 @@
 ## Web development
-I started off with web development (http://www.learnin60seconds.com/static/tgportfolio/index.html) with projects including tic tac toe game, Pixabay Docs Add on https://chrome.google.com/webstore/detail/pixabay-free-images/joobpkaagmlbkkcijfepmlieedgmmdbj, word cloud generator etc. 
+I started off with [http://www.learnin60seconds.com/static/tgportfolio/index.html](web development) with projects including tic tac toe game, [https://chrome.google.com/webstore/detail/pixabay-free-images/joobpkaagmlbkkcijfepmlieedgmmdbj](Pixabay Docs Add on), word cloud generator etc. 
 ## Grow with Google
 During the GWG course I further improved my citizenship civics test app,https://github.com/tanyagupta/offline-uscitizenship-flashcards and worked on two group proiects including a navigation app using offline first strategy and google maps api and another one offline first app that provides useful information based on geolocation https://github.com/tanyagupta/Navi  https://github.com/tanyagupta/gwg-women-techmakers. 
 ## Designing voice user interfaces
