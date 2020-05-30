@@ -63,7 +63,8 @@
             <div class="row">
             <h1 class="textarea display-6"> About Me</h1> <br><br>     
 <h5>
-                 <a href="static/tgportfolio/index.html" target="_blank">Portfolio</a>
-                 <a href="static/tgresume/index.html" target="_blank">Resume</a>
+                 <a href="static/tgportfolio/index.html" target="_blank">Portfolio</a></h5>
+
+<h5>                 <a href="static/tgresume/index.html" target="_blank">Resume</a>
 </h5>
             </div>
