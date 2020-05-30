@@ -58,12 +58,12 @@
                 Medium Article Writer &nbsp;</a>|&nbsp;@<a target="_blank" href="mailto:mediumarticlewriter@li60.zendesk.com?Subject=Medium%20Article%20Writer%20Add-On%20for%20Docs" target="_top">
                 <img style="height:25px; width=25px;" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true">
                 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
-
+</ul>
             </div>
             <div class="row">
             <h1 class="textarea display-6"> About Me</h1>      
-                 <a href="static/tgportfolio/index.html" target="_blank">Portfolio</a></li>
-                 <a href="static/tgresume/index.html" target="_blank">Resume</a></li>
+                 <a href="static/tgportfolio/index.html" target="_blank">Portfolio</a>
+                 <a href="static/tgresume/index.html" target="_blank">Resume</a>
 
             </div>
 
