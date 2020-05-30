@@ -60,15 +60,11 @@
                 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
 
             </div>
-            <br>
-            <br>
-
-
-
-
             <div class="row">
-              <h1 class="textarea display-6"> About Me</h1>      
-                   <a href="static/tgportfolio/index.html" target="_blank">Portfolio</a></li>
-                   <a href="static/tgresume/index.html" target="_blank">Resume</a></li>
+            h1 class="textarea display-6"> About Me</h1>      
+                 <a href="static/tgportfolio/index.html" target="_blank">Portfolio</a></li>
+                 <a href="static/tgresume/index.html" target="_blank">Resume</a></li>
+
+            </div>
 
              </div>
