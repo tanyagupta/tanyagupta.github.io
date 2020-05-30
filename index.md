@@ -1,10 +1,6 @@
    <!-- added Jan 20 2017-->
 <title> Tanya Gupta</title>
 
-
-
-    <head>
-
   <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
   <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
@@ -18,8 +14,6 @@
 
 <link href="https://fonts.googleapis.com/css?family=Lato:100,300" rel="stylesheet">
 
-    </head>
-    <body>
 <div class="container">
 <div class="container">
     <div class="row">
@@ -74,7 +68,7 @@
             <div class="row">
                    <ul><li><a href="static/tgportfolio/index.html" target="_blank">Portfolio</a></li><li><a href="static/tgresume/index.html" target="_blank">Resume</a></li></ul><br>
              </div>
-          
+
 
 </div>
 
