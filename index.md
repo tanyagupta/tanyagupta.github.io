@@ -31,7 +31,7 @@
 
              <li> <a href="https://myamerica.life" target="_blank">Civics Test Digital Flash Cards</a>|&nbsp;@<a target="_blank"
                href="mailto:civicstest@li60.zendesk.com?Subject=Civics%20Test%20Flashcards" target="_top"><img style="height:25px; width=25px;"
-            src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true">&nbsp;|</li>
+            src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true">&nbsp;|
 
                 <li> <a href="https://chrome.google.com/webstore/detail/pixabay-free-images/joobpkaagmlbkkcijfepmlieedgmmdbj" target="_blank">
                   Pixabay - Free Images (Chrome Store)&nbsp;
@@ -52,13 +52,13 @@
                 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
                 <li> <a href="https://chrome.google.com/webstore/detail/gsheets-calc/ojfmgmplohpjbjnmddbncmeogpfjnfma?utm_source=permalink" target="_blank">
                   GSheets Calc Add-On for Sheets&nbsp;</a>|&nbsp;@<a target="_blank" href="mailto:gsheetscalc@li60.zendesk.com?Subject=GSheets%20Calc" target="_top"><img style="height:25px; width=25px;" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
-           </div>
+
            <div class="row">
                 <li><a href="https://chrome.google.com/webstore/detail/medium-article-writer/iiphgmbijeplmjgbjbnfpgapfggknfop?authuser=0" target="_blank">
                 Medium Article Writer &nbsp;</a>|&nbsp;@<a target="_blank" href="mailto:mediumarticlewriter@li60.zendesk.com?Subject=Medium%20Article%20Writer%20Add-On%20for%20Docs" target="_top">
                 <img style="height:25px; width=25px;" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true">
                 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
-                </ul>
+
             </div>
             <br>
 
@@ -68,14 +68,3 @@
             <div class="row">
                    <ul><li><a href="static/tgportfolio/index.html" target="_blank">Portfolio</a></li><li><a href="static/tgresume/index.html" target="_blank">Resume</a></li></ul><br>
              </div>
-
-
-</div>
-
-</div>
-
-
-<!--   <img height="100" width="300" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/wordcloud.png?raw=true">  -->
-
-    </body>
-</html>
