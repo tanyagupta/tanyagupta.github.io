@@ -61,4 +61,4 @@
 
 <br>
 
-<a href="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/resume" target="_blank">About Me</a>
+<a href="https://tanyagupta.github.io/resume" target="_blank">About Me</a>
