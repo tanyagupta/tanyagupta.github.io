@@ -1,8 +1,9 @@
 # Products
-* [Alexa App](https://www.amazon.com/New-York-Times-Movie-Reviews/dp/B07RFKF6T5)
+* [New York Times Movie Reviews Alexa App](https://www.amazon.com/New-York-Times-Movie-Reviews/dp/B07RFKF6T5)
 * Word Cloud Add On (close to two million users) [how to use](https://www.bettercloud.com/monitor/the-academy/how-to-create-a-word-cloud-in-google-docs/)
 and many others
 * Digital flashcards for US Citizenship Exam
+*see others listed on [main](tanyagupta.github.io) page
 
 # Languages
 * Python
@@ -19,3 +20,5 @@ and many others
 * App Developer
 
 # Other
+* Published papers
+* Expert Group participation including W3C, UN etc.
