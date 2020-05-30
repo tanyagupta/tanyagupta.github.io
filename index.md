@@ -60,4 +60,4 @@
                 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
 
 <br><br><br>
-<li><h5><a href="https://tanyagupta.github.io/resume" target="_blank">Resume</a></h5></li>
+<li><a href="https://tanyagupta.github.io/resume" target="_blank">Resume</a></li>
