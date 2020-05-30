@@ -61,7 +61,4 @@
 
 
 
-[About Me](resume)
-
-
-  
+<a href="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/resume.md">About Me</a>
