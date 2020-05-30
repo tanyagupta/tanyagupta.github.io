@@ -60,6 +60,13 @@
                 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
 
 <br>
-
-<h1 class="textarea display-6"> More</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="row">
+<ul><li><h1 class="textarea display-6"> More</h1></li></ul>
 <a href="https://tanyagupta.github.io/resume" target="_blank">Resume</a>
+</div>
+</div>
+</div>
+</div>
