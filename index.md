@@ -61,6 +61,16 @@
 
 <br>
 
-
+<div class="container">
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="row">
+                <h1 class="textarea display-6"> Products</h1>
 <h1 class="textarea display-6"> More</h1>
 <h2><a class="textarea display-6" href="https://tanyagupta.github.io/resume" target="_blank">Resume</a></h2>
+</div>
+</div>
+</div>
+</div>
+</div>
