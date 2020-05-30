@@ -60,7 +60,11 @@
                 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
 
 <br>
-
+</div>
+</div>
+</div>
+</div>
+</div>
 <div class="container">
 <div class="container">
     <div class="row">
