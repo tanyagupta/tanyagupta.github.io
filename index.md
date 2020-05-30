@@ -61,9 +61,9 @@
                 </ul>
             </div>
             <br>
-            <p><i>Contact us by clicking on the envelope icon next to the app name</i></p>
 
-        </div>
+
+
 
             <div class="row">
                    <ul><li><a href="static/tgportfolio/index.html" target="_blank">Portfolio</a></li><li><a href="static/tgresume/index.html" target="_blank">Resume</a></li></ul><br>
