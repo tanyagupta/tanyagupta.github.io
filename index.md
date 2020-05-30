@@ -1,10 +1,10 @@
    <!-- added Jan 20 2017-->
-<h1> Tanya Gupta</h1>
+<title> Tanya Gupta</title>
 
-<!DOCTYPE html>
-<html>
+
+
     <head>
-        <title>Learn in 60 seconds </title>
+
   <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js"></script>
   <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
@@ -20,13 +20,6 @@
 
     </head>
     <body>
-<div id="jumbo" class="jumbotron">
-  <h1 class="display-3 ">learnin60seconds.com</h1>
-  <p class="lead">Bite sized learning you can use today</p>
-  <hr class="my-4">
-
-
-</div>
 <div class="container">
 <div class="container">
     <div class="row">
