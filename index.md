@@ -61,7 +61,7 @@
 </ul>
             </div>
             <div class="row">
-            <h1 class="textarea display-6"> [About Me](resume.md)</h1> <br><br>     
+            <h1 class="textarea display-6"> [About Me](resume)</h1> <br><br>     
 
 
             </div>
