@@ -59,6 +59,6 @@
                 <img style="height:25px; width=25px;" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true">
                 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
 
+<br>
 
-
-<a href="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/resume.md">About Me</a>
+<a href="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/resume" target="_blank">About Me</a>
