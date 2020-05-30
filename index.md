@@ -61,4 +61,4 @@
 
 <br>
 
-<h1 class="textarea display-6><a href="https://tanyagupta.github.io/resume" target="_blank">About Me</a></h1>
+<h1 class="textarea display-6"> <a href="https://tanyagupta.github.io/resume" target="_blank">About Me</a></h1>
