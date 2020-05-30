@@ -60,7 +60,7 @@
                 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
 
 <br>
-</div>
+
 
             <div class="row">
                 <h1 class="textarea display-6"> More</h1>
