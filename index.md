@@ -27,7 +27,7 @@
             <div class="row">
                 <h1 class="textarea display-6"> Products</h1>
                 <ul>
-            </div>
+
 
             <div class="row">
               <li> <a href="https://gsuite.google.com/marketplace/app/newsfinder/32898839534" target="_blank">NewsFinder</a>|&nbsp;@<a target="_blank" href="mailto:newsfinder@li60.zendesk.com?Subject=NewsFinder" target="_top">
@@ -70,31 +70,11 @@
             <p><i>Contact us by clicking on the envelope icon next to the app name</i></p>
 
         </div>
-        <div class="col-sm-6">
-            <div class="row">
-               <h1 class="textarea display-6">Team</h1><ul>
-              </div>
-            <div class="row">
 
-                   <h6> Tanya Gupta</h6>
-            </div>
             <div class="row">
                    <ul><li><a href="static/tgportfolio/index.html" target="_blank">Portfolio</a></li><li><a href="static/tgresume/index.html" target="_blank">Resume</a></li></ul><br>
              </div>
-             <div class="row">
-                   <h6> Abir Qasem</h6>
-            </div>
-            <div class="row">
-                   <ul><li><a target="_blank" href="https://scholar.google.com/citations?user=OGBSiZwAAAAJ&hl=en">Publications</a></li><li><a target="_blank" href="http://abirqasem.wixsite.com/home">Resume</a></li></ul><br>
-                    </ul>
-            </div>
-
-        </div>
-
-    </div>
-<div class="row">
-<a href="/tos"  role="button">&nbsp;Terms of Service</a>
-</div>
+          
 
 </div>
 
