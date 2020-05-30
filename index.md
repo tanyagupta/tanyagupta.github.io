@@ -57,11 +57,11 @@
                 <li><a href="https://chrome.google.com/webstore/detail/medium-article-writer/iiphgmbijeplmjgbjbnfpgapfggknfop?authuser=0" target="_blank">
                 Medium Article Writer &nbsp;</a>|&nbsp;@<a target="_blank" href="mailto:mediumarticlewriter@li60.zendesk.com?Subject=Medium%20Article%20Writer%20Add-On%20for%20Docs" target="_top">
                 <img style="height:25px; width=25px;" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true">
-                <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li></ul>
+                <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
 
 <br>
 
 
 
-                <h1 class="textarea display-6"> More</h1><br><br>
+<h1 class="textarea display-6"> More</h1><br><br>
 <h5><a href="https://tanyagupta.github.io/resume" target="_blank">Resume</a></h5>
