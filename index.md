@@ -61,7 +61,6 @@
 
 <br>
 
-<div class="row">
+
 <h1 class="textarea display-6"> More</h1>
 <a class="textarea display-6" href="https://tanyagupta.github.io/resume" target="_blank">Resume</a>
-</div>
