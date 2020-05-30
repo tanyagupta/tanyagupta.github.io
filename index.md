@@ -67,8 +67,8 @@
 
 
             <div class="row">
-                   <ul><
-                   li><a href="static/tgportfolio/index.html" target="_blank">Portfolio</a></li>
+                   
+                   <li><a href="static/tgportfolio/index.html" target="_blank">Portfolio</a></li>
                    <li><a href="static/tgresume/index.html" target="_blank">Resume</a></li>
                    </ul><br>
              </div>
