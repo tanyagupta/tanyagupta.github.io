@@ -75,4 +75,4 @@
 </iframe>
 
 
-<a href="https://tanyagupta.github.io/tips" target="_blank"> Tips</a>
+<a style="padding-top: 50px;" href="https://tanyagupta.github.io/tips" target="_blank"> Tips</a>
