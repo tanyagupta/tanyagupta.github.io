@@ -24,7 +24,7 @@
 
 
             <div class="row">
-            <li><a href="https://tanyagupta.github.io/tips" target="_blank"> Tips</a>
+            <li><a href="https://tanyagupta.github.io/tips" target="_blank"> Tips</a></li>
               <li> <a href="https://gsuite.google.com/marketplace/app/newsfinder/32898839534" target="_blank">NewsFinder</a>|&nbsp;@<a target="_blank" href="mailto:newsfinder@li60.zendesk.com?Subject=NewsFinder" target="_top">
                 <img style="height:25px; width=25px;"
              src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true">
