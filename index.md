@@ -60,7 +60,7 @@
                 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
                 <br><hr>
 
-                <li><a href="https://tanyagupta.github.io/tips" target="_blank"> Tips</a></li><hr>
+
 
 <hr>
 <h5 class="textarea display-6"><a style="padding-top: 20px;" href="https://tanyagupta.github.io/resume" target="_blank">Resume</a></h5><br>
@@ -73,3 +73,6 @@
     height="430"
     src="https://console.dialogflow.com/api-client/demo/embedded/9f19b533-2f18-4bba-bcc2-ef0669c0cab1">
 </iframe>
+
+
+<a href="https://tanyagupta.github.io/tips" target="_blank"> Tips</a>
