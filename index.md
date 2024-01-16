@@ -55,10 +55,10 @@
                   GSheets Calc Add-On for Sheets&nbsp;</a>|&nbsp;@<a target="_blank" href="mailto:gsheetscalc@li60.zendesk.com?Subject=GSheets%20Calc" target="_top"><img style="height:25px; width=25px;" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
 
 
-                
+
                 <br><hr>
 </ul>
 
 
 <hr>
-<h5 class="textarea display-6"><a style="padding-top: 20px;"> href="https://tanyagupta.github.io/resume" target="_blank">Resume</a></h5><br>
+<h5 class="textarea display-6"><a style="padding-top: 20px;" href="https://tanyagupta.github.io/resume" target="_blank">Resume</a></h5><br>
