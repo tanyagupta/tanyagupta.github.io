@@ -64,4 +64,4 @@
 
 
 <hr>
-<h5 class="textarea display-6"><a style="padding-top: 20px;" href="https://tanyagupta.github.io/resume" target="_blank">Resume</a></h5><br>
+<h5 class="textarea display-6"><a style="padding-top: 20px;"> href="https://tanyagupta.github.io/resume" target="_blank">Resume</a></h5><br>
