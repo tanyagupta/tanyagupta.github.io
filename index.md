@@ -25,34 +25,34 @@
 
             <div class="row">
 
-              <li> <a href="https://gsuite.google.com/marketplace/app/newsfinder/32898839534" target="_blank">NewsFinder</a>|&nbsp;@<a target="_blank" href="mailto:newsfinder@li60.zendesk.com?Subject=NewsFinder" target="_top">
+              <li> <a href="https://gsuite.google.com/marketplace/app/newsfinder/32898839534" target="_blank">NewsFinder</a>|&nbsp;@<a target="_blank" href="mailto:team@learnin60seconds.com?Subject=NewsFinder" target="_top">
                 <img style="height:25px; width=25px;"
              src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true">
              &nbsp;|</a>&nbsp;<a href="/helpnewsfinder">Instructions</a></li>
 
              <li> <a href="https://myamerica.life" target="_blank">Civics Test Digital Flash Cards</a>|&nbsp;@<a target="_blank"
-               href="mailto:civicstest@li60.zendesk.com?Subject=Civics%20Test%20Flashcards" target="_top"><img style="height:25px; width=25px;"
+               href="mailto:team@learnin60seconds.com?Subject=Civics%20Test%20Flashcards" target="_top"><img style="height:25px; width=25px;"
             src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true">&nbsp;|
 
                 <li> <a href="https://chrome.google.com/webstore/detail/pixabay-free-images/joobpkaagmlbkkcijfepmlieedgmmdbj" target="_blank">
                   Pixabay - Free Images (Chrome Store)&nbsp;
                   </a>|&nbsp;@<a target="_blank"
-                 href="mailto:pixabayaddon@li60.zendesk.com?Subject=Pixabay%20Free%20Images" target="_top"><img style="height:25px; width=25px;"
+                 href="mailto:team@learnin60seconds.com?Subject=Pixabay%20Free%20Images" target="_top"><img style="height:25px; width=25px;"
                 src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
 
                 <li> <a href="https://chrome.google.com/webstore/detail/word-cloud-generator/alhnlhbhnklajhmccemipdbaifocepab?authuser=0" target="_blank">
-                  Word Cloud Add-On (Chrome Web Store)&nbsp; </a>|&nbsp;@<a target="_blank" href="mailto:wordcloudaddon@li60.zendesk.com?Subject=Word%20Cloud%20Add-On" target="_top"><img style="height:25px; width=25px;" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true">
+                  Word Cloud Add-On (Chrome Web Store)&nbsp; </a>|&nbsp;@<a target="_blank" href="mailto:team@learnin60seconds.com?Subject=Word%20Cloud%20Add-On" target="_top"><img style="height:25px; width=25px;" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true">
                   <span class="glyphicons glyphicons-envelope" aria-hidden="true"></span>|</a>&nbsp;<a href="/helpwordcloudaddon">Instructions</a></li>
-                <li><a href="http://wordtagcloud.com/" target="_blank">Word Cloud Web App &nbsp;</a>|&nbsp;@<a target="_blank" href="mailto:wordcloudwebapp@li60.zendesk.com?Subject=Word%20Cloud%20Web%20App" target="_top"><img style="height:25px; width=25px;" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
+                <li><a href="http://wordtagcloud.com/" target="_blank">Word Cloud Web App &nbsp;</a>|&nbsp;@<a target="_blank" href="mailto:team@learnin60seconds.com?Subject=Word%20Cloud%20Web%20App" target="_top"><img style="height:25px; width=25px;" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
 
                 <li> <a href="https://chrome.google.com/webstore/detail/table-calculator/fknnekoeejdjcbdokeinngldblilkedp?hl=en" target="_blank">
                   GTable Calculator Add-On for Docs (Chrome Store)&nbsp;
                   </a>|&nbsp;@<a target="_blank"
-                 href="mailto:tcalc@li60.zendesk.com?Subject=Table%20Calculator" target="_top"><img style="height:25px; width=25px;"
+                 href="mailto:team@learnin60seconds.com?Subject=Table%20Calculator" target="_top"><img style="height:25px; width=25px;"
                 src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true">
                 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
                 <li> <a href="https://chrome.google.com/webstore/detail/gsheets-calc/ojfmgmplohpjbjnmddbncmeogpfjnfma?utm_source=permalink" target="_blank">
-                  GSheets Calc Add-On for Sheets&nbsp;</a>|&nbsp;@<a target="_blank" href="mailto:gsheetscalc@li60.zendesk.com?Subject=GSheets%20Calc" target="_top"><img style="height:25px; width=25px;" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
+                  GSheets Calc Add-On for Sheets&nbsp;</a>|&nbsp;@<a target="_blank" href="mailto:team@learnin60seconds.com?Subject=GSheets%20Calc" target="_top"><img style="height:25px; width=25px;" src="https://github.com/tanyagupta/tanyagupta.github.io/blob/master/images/1484971441_common-email-envelope-mail-outline-stroke.png?raw=true"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></a></li>
 
 
 
